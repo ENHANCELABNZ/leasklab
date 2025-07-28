@@ -81,7 +81,7 @@
   - Richard D Bagnall
   - Jodie Ingles
   publisher: European heart journal
-  date: '2025-03-05'
+  date: '2025-04-15'
   link: https://www.ncbi.nlm.nih.gov/pubmed/40038847
   term: Leask, MEGAN[Author]
   plugin: pubmed.py
@@ -130,114 +130,6 @@
   publisher: Frontiers in research metrics and analytics
   date: '2024-11-05'
   link: https://www.ncbi.nlm.nih.gov/pubmed/39564513
-  term: Leask, MEGAN[Author]
-  plugin: pubmed.py
-  file: pubmed.yaml
-- id: pubmed:39501129
-  title: 'Publisher Correction: A genome-wide association analysis reveals new pathogenic
-    pathways in gout.'
-  authors:
-  - Tanya J Major
-  - Riku Takei
-  - Hirotaka Matsuo
-  - Megan P Leask
-  - Nicholas A Sumpter
-  - Ruth K Topless
-  - Yuya Shirai
-  - Wei Wang
-  - Murray J Cadzow
-  - Amanda J Phipps-Green
-  - Zhiqiang Li
-  - Aichang Ji
-  - Marilyn E Merriman
-  - Emily Morice
-  - Eric E Kelley
-  - Wen-Hua Wei
-  - Sally P A McCormick
-  - Matthew J Bixley
-  - Richard J Reynolds
-  - Kenneth G Saag
-  - Tayaza Fadason
-  - Evgenia Golovina
-  - Justin M O'Sullivan
-  - Lisa K Stamp
-  - Nicola Dalbeth
-  - Abhishek Abhishek
-  - Michael Doherty
-  - Edward Roddy
-  - Lennart T H Jacobsson
-  - Meliha C Kapetanovic
-  - Olle Melander
-  - "Mariano Andr\xE9s"
-  - "Fernando P\xE9rez-Ruiz"
-  - Rosa J Torres
-  - Timothy Radstake
-  - Timothy L Jansen
-  - Matthijs Janssen
-  - Leo A B Joosten
-  - Ruiqi Liu
-  - Orsolya I Gaal
-  - "Tania O Cri\u015Fan"
-  - Simona Rednic
-  - Fina Kurreeman
-  - Tom W J Huizinga
-  - "Ren\xE9 Toes"
-  - "Fr\xE9d\xE9ric Liot\xE9"
-  - Pascal Richette
-  - Thomas Bardin
-  - Hang Korng Ea
-  - Tristan Pascart
-  - Geraldine M McCarthy
-  - Laura Helbert
-  - "Blanka Stib\u016Frkov\xE1"
-  - Anne-K Tausche
-  - Till Uhlig
-  - "V\xE9ronique Vitart"
-  - Thibaud S Boutin
-  - Caroline Hayward
-  - Philip L Riches
-  - Stuart H Ralston
-  - Archie Campbell
-  - Thomas M MacDonald
-  - Akiyoshi Nakayama
-  - Tappei Takada
-  - Masahiro Nakatochi
-  - Seiko Shimizu
-  - Yusuke Kawamura
-  - Yu Toyoda
-  - Hirofumi Nakaoka
-  - Ken Yamamoto
-  - Keitaro Matsuo
-  - Nariyoshi Shinomiya
-  - Kimiyoshi Ichida
-  - Chaeyoung Lee
-  - Linda A Bradbury
-  - Matthew A Brown
-  - Philip C Robinson
-  - Russell R C Buchanan
-  - Catherine L Hill
-  - Susan Lester
-  - Malcolm D Smith
-  - Maureen Rischmueller
-  - Hyon K Choi
-  - Eli A Stahl
-  - Jeff N Miner
-  - Daniel H Solomon
-  - Jing Cui
-  - Kathleen M Giacomini
-  - Deanna J Brackman
-  - Eric M Jorgenson
-  - Hongbo Liu
-  - Katalin Susztak
-  - Suyash Shringarpure
-  - Alexander So
-  - Yukinori Okada
-  - Changgui Li
-  - Yongyong Shi
-  - Tony R Merriman
-  publisher: Nature genetics
-  date: '2024-11-01'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/39501129
   term: Leask, MEGAN[Author]
   plugin: pubmed.py
   file: pubmed.yaml
@@ -481,24 +373,6 @@
   term: Leask, MEGAN[Author]
   plugin: pubmed.py
   file: pubmed.yaml
-- id: pubmed:38331848
-  title: Interaction of genetic variation at ADH1B and MLXIPL with alcohol consumption
-    for elevated serum urate level and gout among people of European ethnicity.
-  authors:
-  - Min H Chuah
-  - Megan P Leask
-  - Ruth K Topless
-  - Gregory D Gamble
-  - Nicholas A Sumpter
-  - Lisa K Stamp
-  - Tony R Merriman
-  - Nicola Dalbeth
-  publisher: Arthritis research & therapy
-  date: '2024-02-08'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/38331848
-  term: Leask, MEGAN[Author]
-  plugin: pubmed.py
-  file: pubmed.yaml
 - id: pubmed:37250494
   title: A Polynesian
   authors:
@@ -589,22 +463,6 @@
   publisher: Osteoarthritis and cartilage
   date: '2023-04-25'
   link: https://www.ncbi.nlm.nih.gov/pubmed/37105395
-  term: Leask, MEGAN[Author]
-  plugin: pubmed.py
-  file: pubmed.yaml
-- id: pubmed:36735516
-  title: Genetic and Physiological Effects of Insulin-Like Growth Factor-1 (IGF-1)
-    on Human Urate Homeostasis.
-  authors:
-  - Asim K Mandal
-  - Megan P Leask
-  - Nicholas A Sumpter
-  - Hyon K Choi
-  - Tony R Merriman
-  - David B Mount
-  publisher: 'Journal of the American Society of Nephrology : JASN'
-  date: '2023-01-13'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/36735516
   term: Leask, MEGAN[Author]
   plugin: pubmed.py
   file: pubmed.yaml
@@ -706,35 +564,6 @@
   term: Leask, MEGAN[Author]
   plugin: pubmed.py
   file: pubmed.yaml
-- id: pubmed:35451026
-  title: A Polynesian-specific copy number variant encompassing the MICA gene associates
-    with gout.
-  authors:
-  - Ke Wang
-  - Murray Cadzow
-  - Matt Bixley
-  - Megan P Leask
-  - Marilyn E Merriman
-  - Qiangzhen Yang
-  - Zhiqiang Li
-  - Riku Takei
-  - Amanda Phipps-Green
-  - Tanya J Major
-  - Ruth Topless
-  - Nicola Dalbeth
-  - Frances King
-  - Rinki Murphy
-  - Lisa K Stamp
-  - Janak de Zoysa
-  - Zhuo Wang
-  - Yongyong Shi
-  - Tony R Merriman
-  publisher: Human molecular genetics
-  date: '2022-10-28'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/35451026
-  term: Leask, MEGAN[Author]
-  plugin: pubmed.py
-  file: pubmed.yaml
 - id: pubmed:35020833
   title: Genetic association studies of the progression from hyperuricaemia to gout.
   authors:
@@ -774,21 +603,6 @@
   publisher: Best practice & research. Clinical rheumatology
   date: '2021-11-01'
   link: https://www.ncbi.nlm.nih.gov/pubmed/34732286
-  term: Leask, MEGAN[Author]
-  plugin: pubmed.py
-  file: pubmed.yaml
-- id: pubmed:34408667
-  title: Genetic and Physiological Effects of Insulin on Human Urate Homeostasis.
-  authors:
-  - Asim K Mandal
-  - Megan P Leask
-  - Christopher Estiverne
-  - Hyon K Choi
-  - Tony R Merriman
-  - David B Mount
-  publisher: Frontiers in physiology
-  date: '2021-08-02'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/34408667
   term: Leask, MEGAN[Author]
   plugin: pubmed.py
   file: pubmed.yaml
@@ -837,19 +651,6 @@
   publisher: Seminars in nephrology
   date: '2020-11-01'
   link: https://www.ncbi.nlm.nih.gov/pubmed/33678313
-  term: Leask, MEGAN[Author]
-  plugin: pubmed.py
-  file: pubmed.yaml
-- id: pubmed:32134461
-  title: Genome Architecture Facilitates Phenotypic Plasticity in the Honeybee (Apis
-    mellifera).
-  authors:
-  - Elizabeth J Duncan
-  - Megan P Leask
-  - Peter K Dearden
-  publisher: Molecular biology and evolution
-  date: '2020-07-01'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/32134461
   term: Leask, MEGAN[Author]
   plugin: pubmed.py
   file: pubmed.yaml
@@ -994,27 +795,6 @@
   publisher: Genome biology
   date: '2019-04-02'
   link: https://www.ncbi.nlm.nih.gov/pubmed/30935422
-  term: Leask, MEGAN[Author]
-  plugin: pubmed.py
-  file: pubmed.yaml
-- id: pubmed:30719032
-  title: Functional Urate-Associated Genetic Variants Influence Expression of lincRNAs
-  authors:
-  - Megan Leask
-  - Amy Dowdle
-  - Hamish Salvesen
-  - Ruth Topless
-  - Tayaza Fadason
-  - Wenhua Wei
-  - William Schierding
-  - Judith Marsman
-  - Jisha Antony
-  - Justin M O'Sullivan
-  - Tony R Merriman
-  - Julia A Horsfield
-  publisher: Frontiers in genetics
-  date: '2019-01-21'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/30719032
   term: Leask, MEGAN[Author]
   plugin: pubmed.py
   file: pubmed.yaml
