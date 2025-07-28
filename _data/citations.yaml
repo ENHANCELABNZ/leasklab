@@ -133,6 +133,114 @@
   term: Leask, MEGAN[Author]
   plugin: pubmed.py
   file: pubmed.yaml
+- id: pubmed:39501129
+  title: 'Publisher Correction: A genome-wide association analysis reveals new pathogenic
+    pathways in gout.'
+  authors:
+  - Tanya J Major
+  - Riku Takei
+  - Hirotaka Matsuo
+  - Megan P Leask
+  - Nicholas A Sumpter
+  - Ruth K Topless
+  - Yuya Shirai
+  - Wei Wang
+  - Murray J Cadzow
+  - Amanda J Phipps-Green
+  - Zhiqiang Li
+  - Aichang Ji
+  - Marilyn E Merriman
+  - Emily Morice
+  - Eric E Kelley
+  - Wen-Hua Wei
+  - Sally P A McCormick
+  - Matthew J Bixley
+  - Richard J Reynolds
+  - Kenneth G Saag
+  - Tayaza Fadason
+  - Evgenia Golovina
+  - Justin M O'Sullivan
+  - Lisa K Stamp
+  - Nicola Dalbeth
+  - Abhishek Abhishek
+  - Michael Doherty
+  - Edward Roddy
+  - Lennart T H Jacobsson
+  - Meliha C Kapetanovic
+  - Olle Melander
+  - "Mariano Andr\xE9s"
+  - "Fernando P\xE9rez-Ruiz"
+  - Rosa J Torres
+  - Timothy Radstake
+  - Timothy L Jansen
+  - Matthijs Janssen
+  - Leo A B Joosten
+  - Ruiqi Liu
+  - Orsolya I Gaal
+  - "Tania O Cri\u015Fan"
+  - Simona Rednic
+  - Fina Kurreeman
+  - Tom W J Huizinga
+  - "Ren\xE9 Toes"
+  - "Fr\xE9d\xE9ric Liot\xE9"
+  - Pascal Richette
+  - Thomas Bardin
+  - Hang Korng Ea
+  - Tristan Pascart
+  - Geraldine M McCarthy
+  - Laura Helbert
+  - "Blanka Stib\u016Frkov\xE1"
+  - Anne-K Tausche
+  - Till Uhlig
+  - "V\xE9ronique Vitart"
+  - Thibaud S Boutin
+  - Caroline Hayward
+  - Philip L Riches
+  - Stuart H Ralston
+  - Archie Campbell
+  - Thomas M MacDonald
+  - Akiyoshi Nakayama
+  - Tappei Takada
+  - Masahiro Nakatochi
+  - Seiko Shimizu
+  - Yusuke Kawamura
+  - Yu Toyoda
+  - Hirofumi Nakaoka
+  - Ken Yamamoto
+  - Keitaro Matsuo
+  - Nariyoshi Shinomiya
+  - Kimiyoshi Ichida
+  - Chaeyoung Lee
+  - Linda A Bradbury
+  - Matthew A Brown
+  - Philip C Robinson
+  - Russell R C Buchanan
+  - Catherine L Hill
+  - Susan Lester
+  - Malcolm D Smith
+  - Maureen Rischmueller
+  - Hyon K Choi
+  - Eli A Stahl
+  - Jeff N Miner
+  - Daniel H Solomon
+  - Jing Cui
+  - Kathleen M Giacomini
+  - Deanna J Brackman
+  - Eric M Jorgenson
+  - Hongbo Liu
+  - Katalin Susztak
+  - Suyash Shringarpure
+  - Alexander So
+  - Yukinori Okada
+  - Changgui Li
+  - Yongyong Shi
+  - Tony R Merriman
+  publisher: Nature genetics
+  date: '2024-11-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/39501129
+  term: Leask, MEGAN[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
 - id: pubmed:39422716
   title: The population-specific Thr44Met OCT3 coding variant affects metformin pharmacokinetics
     with subsequent effects on insulin sensitivity in C57Bl/6J mice.
@@ -279,6 +387,27 @@
   term: Leask, MEGAN[Author]
   plugin: pubmed.py
   file: pubmed.yaml
+- id: pubmed:38896441
+  title: A Polynesian-specific SLC22A3 variant associates with low plasma lipoprotein(a)
+    concentrations independent of apo(a) isoform size in males.
+  authors:
+  - Qian Wang
+  - Sally McCormick
+  - Megan P Leask
+  - Huti Watson
+  - Conor O'Sullivan
+  - Jeremy D Krebs
+  - Rosemary Hall
+  - Patricia Whitfield
+  - Troy L Merry
+  - Rinki Murphy
+  - Peter R Shepherd
+  publisher: Bioscience reports
+  date: '2024-07-31'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/38896441
+  term: Leask, MEGAN[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
 - id: pubmed:38820906
   title: Further delineation of short-chain enoyl-CoA hydratase deficiency in the
     Pacific population.
@@ -370,6 +499,52 @@
   term: Leask, MEGAN[Author]
   plugin: pubmed.py
   file: pubmed.yaml
+- id: pubmed:37250494
+  title: A Polynesian
+  authors:
+  - Jaye Moors
+  - Mohanraj Krishnan
+  - Nick Sumpter
+  - Riku Takei
+  - Matt Bixley
+  - Murray Cadzow
+  - Tanya J Major
+  - Amanda Phipps-Green
+  - Ruth Topless
+  - Marilyn Merriman
+  - Malcolm Rutledge
+  - Ben Morgan
+  - Jenna C Carlson
+  - Jerry Z Zhang
+  - Emily M Russell
+  - Guangyun Sun
+  - Hong Cheng
+  - Daniel E Weeks
+  - Take Naseri
+  - Muagututi'a Sefuiva Reupena
+  - Satupa'itea Viali
+  - John Tuitele
+  - Nicola L Hawley
+  - Ranjan Deka
+  - Stephen T McGarvey
+  - Janak de Zoysa
+  - Rinki Murphy
+  - Nicola Dalbeth
+  - Lisa Stamp
+  - Mele Taumoepeau
+  - Frances King
+  - Phillip Wilcox
+  - Nuku Rapana
+  - Sally McCormick
+  - Ryan L Minster
+  - Tony R Merriman
+  - Megan Leask
+  publisher: HGG advances
+  date: '2023-05-08'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/37250494
+  term: Leask, MEGAN[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
 - id: pubmed:37234800
   title: "Genetic testing for misclassified monogenic diabetes in M\u0101ori and Pacific\
     \ peoples in A\u014Dtearoa New Zealand with early-onset type 2 diabetes."
@@ -430,6 +605,36 @@
   publisher: 'Journal of the American Society of Nephrology : JASN'
   date: '2023-01-13'
   link: https://www.ncbi.nlm.nih.gov/pubmed/36735516
+  term: Leask, MEGAN[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:36699039
+  title: Stratified glucose-lowering response to vildagliptin and pioglitazone by
+    obesity and hypertriglyceridemia in a randomized crossover trial.
+  authors:
+  - Rebecca Brandon
+  - Yannan Jiang
+  - Rui Qian Yeu
+  - Ry Tweedie-Cullen
+  - Kate Smallman
+  - Glenn Doherty
+  - Kerry A Macaskill-Smith
+  - Rebekah J Doran
+  - Penny Clark
+  - Allan Moffitt
+  - Troy Merry
+  - Norma Nehren
+  - Frances King
+  - "Jennie Harr\xE9 Hindmarsh"
+  - Megan Patricia Leask
+  - Tony R Merriman
+  - Brandon Orr-Walker
+  - Peter R Shepherd
+  - Ryan Paul
+  - Rinki Murphy
+  publisher: Frontiers in endocrinology
+  date: '2023-01-09'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/36699039
   term: Leask, MEGAN[Author]
   plugin: pubmed.py
   file: pubmed.yaml
@@ -572,6 +777,21 @@
   term: Leask, MEGAN[Author]
   plugin: pubmed.py
   file: pubmed.yaml
+- id: pubmed:34408667
+  title: Genetic and Physiological Effects of Insulin on Human Urate Homeostasis.
+  authors:
+  - Asim K Mandal
+  - Megan P Leask
+  - Christopher Estiverne
+  - Hyon K Choi
+  - Tony R Merriman
+  - David B Mount
+  publisher: Frontiers in physiology
+  date: '2021-08-02'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/34408667
+  term: Leask, MEGAN[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
 - id: pubmed:34348652
   title: Evolution and genomic organization of the insect sHSP gene cluster and coordinate
     regulation in phenotypic plasticity.
@@ -617,6 +837,19 @@
   publisher: Seminars in nephrology
   date: '2020-11-01'
   link: https://www.ncbi.nlm.nih.gov/pubmed/33678313
+  term: Leask, MEGAN[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:32134461
+  title: Genome Architecture Facilitates Phenotypic Plasticity in the Honeybee (Apis
+    mellifera).
+  authors:
+  - Elizabeth J Duncan
+  - Megan P Leask
+  - Peter K Dearden
+  publisher: Molecular biology and evolution
+  date: '2020-07-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/32134461
   term: Leask, MEGAN[Author]
   plugin: pubmed.py
   file: pubmed.yaml
@@ -764,6 +997,27 @@
   term: Leask, MEGAN[Author]
   plugin: pubmed.py
   file: pubmed.yaml
+- id: pubmed:30719032
+  title: Functional Urate-Associated Genetic Variants Influence Expression of lincRNAs
+  authors:
+  - Megan Leask
+  - Amy Dowdle
+  - Hamish Salvesen
+  - Ruth Topless
+  - Tayaza Fadason
+  - Wenhua Wei
+  - William Schierding
+  - Judith Marsman
+  - Jisha Antony
+  - Justin M O'Sullivan
+  - Tony R Merriman
+  - Julia A Horsfield
+  publisher: Frontiers in genetics
+  date: '2019-01-21'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/30719032
+  term: Leask, MEGAN[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
 - id: pubmed:30124855
   title: A non-coding genetic variant maximally associated with serum urate levels
     is functionally linked to HNF4A-dependent PDZK1 expression.
@@ -817,6 +1071,159 @@
   publisher: Journal of experimental botany
   date: '2017-07-10'
   link: https://www.ncbi.nlm.nih.gov/pubmed/28922756
+  term: Leask, MEGAN[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:25908251
+  title: The genomes of two key bumblebee species with primitive eusocial organization.
+  authors:
+  - Ben M Sadd
+  - Seth M Barribeau
+  - Guy Bloch
+  - Dirk C de Graaf
+  - Peter Dearden
+  - Christine G Elsik
+  - "J\xFCrgen Gadau"
+  - Cornelis J P Grimmelikhuijzen
+  - Martin Hasselmann
+  - Jeffrey D Lozier
+  - Hugh M Robertson
+  - Guy Smagghe
+  - Eckart Stolle
+  - Matthias Van Vaerenbergh
+  - Robert M Waterhouse
+  - Erich Bornberg-Bauer
+  - Steffen Klasberg
+  - Anna K Bennett
+  - "Francisco C\xE2mara"
+  - "Roderic Guig\xF3"
+  - Katharina Hoff
+  - Marco Mariotti
+  - Monica Munoz-Torres
+  - Terence Murphy
+  - Didac Santesmasses
+  - Gro V Amdam
+  - Matthew Beckers
+  - Martin Beye
+  - Matthias Biewer
+  - "M\xE1rcia M G Bitondi"
+  - Mark L Blaxter
+  - Andrew F G Bourke
+  - Mark J F Brown
+  - Severine D Buechel
+  - Rossanah Cameron
+  - Kaat Cappelle
+  - James C Carolan
+  - Olivier Christiaens
+  - Kate L Ciborowski
+  - David F Clarke
+  - Thomas J Colgan
+  - David H Collins
+  - Andrew G Cridge
+  - Tamas Dalmay
+  - Stephanie Dreier
+  - Louis du Plessis
+  - Elizabeth Duncan
+  - Silvio Erler
+  - Jay Evans
+  - Tiago Falcon
+  - Kevin Flores
+  - "Fl\xE1via C P Freitas"
+  - Taro Fuchikawa
+  - Tanja Gempe
+  - Klaus Hartfelder
+  - Frank Hauser
+  - Sophie Helbing
+  - Fernanda C Humann
+  - Frano Irvine
+  - Lars S Jermiin
+  - Claire E Johnson
+  - Reed M Johnson
+  - Andrew K Jones
+  - Tatsuhiko Kadowaki
+  - Jonathan H Kidner
+  - Vasco Koch
+  - "Arian K\xF6hler"
+  - F Bernhard Kraus
+  - H Michael G Lattorff
+  - Megan Leask
+  - Gabrielle A Lockett
+  - Eamonn B Mallon
+  - David S Marco Antonio
+  - Monika Marxer
+  - Ivan Meeus
+  - Robin F A Moritz
+  - Ajay Nair
+  - "Kathrin N\xE4pflin"
+  - Inga Nissen
+  - Jinzhi Niu
+  - Francis M F Nunes
+  - John G Oakeshott
+  - Amy Osborne
+  - Marianne Otte
+  - Daniel G Pinheiro
+  - "Nina Rossi\xE9"
+  - Olav Rueppell
+  - Carolina G Santos
+  - Regula Schmid-Hempel
+  - "Bj\xF6rn D Schmitt"
+  - Christina Schulte
+  - "Zil\xE1 L P Sim\xF5es"
+  - Michelle P M Soares
+  - Luc Swevers
+  - Eva C Winnebeck
+  - Florian Wolschin
+  - Na Yu
+  - Evgeny M Zdobnov
+  - Peshtewani K Aqrawi
+  - Kerstin P Blankenburg
+  - Marcus Coyle
+  - Liezl Francisco
+  - Alvaro G Hernandez
+  - Michael Holder
+  - Matthew E Hudson
+  - LaRonda Jackson
+  - Joy Jayaseelan
+  - Vandita Joshi
+  - Christie Kovar
+  - Sandra L Lee
+  - Robert Mata
+  - Tittu Mathew
+  - Irene F Newsham
+  - Robin Ngo
+  - Geoffrey Okwuonu
+  - Christopher Pham
+  - Ling-Ling Pu
+  - Nehad Saada
+  - Jireh Santibanez
+  - DeNard Simmons
+  - Rebecca Thornton
+  - Aarti Venkat
+  - Kimberly K O Walden
+  - Yuan-Qing Wu
+  - Griet Debyser
+  - Bart Devreese
+  - Claire Asher
+  - Julie Blommaert
+  - Ariel D Chipman
+  - Lars Chittka
+  - Bertrand Fouks
+  - Jisheng Liu
+  - Meaghan P O'Neill
+  - Seirian Sumner
+  - Daniela Puiu
+  - Jiaxin Qu
+  - Steven L Salzberg
+  - Steven E Scherer
+  - Donna M Muzny
+  - Stephen Richards
+  - Gene E Robinson
+  - Richard A Gibbs
+  - Paul Schmid-Hempel
+  - Kim C Worley
+  publisher: Genome biology
+  date: '2015-04-24'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/25908251
   term: Leask, MEGAN[Author]
   plugin: pubmed.py
   file: pubmed.yaml
