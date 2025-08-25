@@ -117,12 +117,6 @@ In our lab, we use a simple larval tailfin wound to stimulate innate immune cell
 
 ### pIGLET-mediated transgenesis
 
-{%
-  include float.html
-  content=content
-  flip=true
-%}
-
 PhiC31 Integrase Genomic Loci Engineered for Transgenesis (pIGLET) is a recently developed zebrafish transgenesis system that we use in our lab to model human non-coding regulatory elements. As the name suggests, pIGLET refers to a transgenic zebrafish line containing a unique attP landing site located within a well-mapped genomic region that avoids both phenotypic consequences and positional effects. We utilize two lines of pIGLET fish: pIGLET14a and pIGLET24b, with the end numbers indicating the chromosomal location of the landing site. These lines were generously provided in collaboration with Dr. Robert Lalonde and Professor Christian Mosimann at the University of Colorado Anschutz. By injecting a plasmid containing complementary attB sites flanking a region of interest, alongside phiC31 integrase, we achieve single-site, unidirectional integration of that region into the genome at the designated site. This enables us to generate transgenic lines housing putative enhancer regions positioned upstream of a fluorescent reporter. Doing so facilitates both tissue-specific expression profiling and in vivo quantification of enhancer activity across populations, capabilities that are limited or absent in other zebrafish transgenesis methods. Through this system, we are able to investigate the effects of variation within enhancer regions, with the ultimate goal of translating our findings into improved health outcomes.
 
 {% include float.html clear=false %}
