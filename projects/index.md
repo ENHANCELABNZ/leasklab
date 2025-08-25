@@ -7,7 +7,7 @@ nav:
 
 # In the ENHANCE lab
 
-We are interested in advancing the understanding and treatment of diseases through [equitable genomics](#equitable-genomics---advancing-research-health-and-capability) with a specific focus on [non-coding genetic elemnts](#non-coding-genetic-elements). Leveraging human genomics data, we use zebrafish as a model to study genes and enhancers (an example of a non-coding element) in [_JAZF1_ and metabolic disorders](#jazf1-and-metabolic-disorders) and the polygenic contribution to [polycystic ovary syndrome](#polycystic-ovary-syndrome). We use state-of-the-art molecular and cell biology techniques, as well as [whole-brain mapping](#mapmap) and [high-throughput behavioural phenotyping](#high-throughput-behavioural-phenotyping) in dissecting the role of genetic elements of interest in health and disease. 
+We are interested in advancing the understanding and treatment of diseases through [equitable genomics](#equitable-genomics---advancing-research-health-and-capability) with a specific focus on [non-coding genetic elemnts](#non-coding-genetic-elements). Leveraging human genomics data, we use zebrafish as a model to study genes and enhancers (an example of a non-coding element) in [_JAZF1_ and metabolic disorders](#jazf1-and-metabolic-disorders) and the polygenic contribution to [polycystic ovary syndrome](#polycystic-ovary-syndrome). We use state-of-the-art molecular and cell biology techniques, including [pILGET-mediated transgenesis](#piglet-mediated-transgenesis) [whole-brain mapping](#mapmap), [high-throughput behavioural phenotyping](#high-throughput-behavioural-phenotyping) and [tail wounding](#tail-wounding), in dissecting the role of genetic elements of interest in health and disease. 
 
 # {% include icon.html icon="fa-solid fa-flask-vial" %}Projects
 
@@ -94,5 +94,35 @@ We leverage zebrafish larvae transparency, smaller brain size and ease of geneti
 
 Behavioural analysis is crucial in understanding how our genetic models affect the physiology and brain function of larval zebrafish. We use a commercially available high-throughout solution (DanioVision, Noldus) that allows the simultaneous tracking of 96 fish across multiple days. In the system, we are able to alter ambient temperature, light intensity/duration in different colours and administer mechanical "taps" as a startle stimulus. We can combine this repertoire of manipulations to detect changes in circadian rhythms, visual/acoustic startle responses and habituation, sensory perception and locomotor functions. Changes in baseline and stimulus-bound movement trajectories offer us a valuable readout on how the brain interacts with the environment, providing insights to potential brain circuit dysfunction. 
 
+### Tail wounding
+
+{% capture content %}
+  {%
+  include figure.html
+  image="images/pics2show/Wounding.png"
+  caption="Zebrafish tail wounding"
+  width="400px"
+%}
+{% endcapture %}
+
+{%
+  include float.html
+  content=content
+  flip=true
+%}
+
+The immune system plays a key role in the daily maintenance and repair of the body during health and disease and is pivotal for protection against invading microorganisms such as bacteria. The cells of the immune system (‘white blood cells’) carry out numerous dynamic activities in response to stimulation including infection and injury. Model animals, including zebrafish, enable the study of immune cell behaviour. Zebrafish have a functional innate immune system from early embryonic stages and into adulthood. Many haematopoietic (blood) pathways that underly an immune response are similar in zebrafish as in humans. Zebrafish larvae are transparent and through genetic editing can produce fluorescent immune cells to facilitate immune-focused research.
+
+In our lab, we use a simple larval tailfin wound to stimulate innate immune cells (macrophages and neutrophils) into action. The larvae that we wound are typically deficient in a gene that might impact immune processes or have been treated with potential immune altering substances (such as glucose). We are interested in any changes to immune cell behaviour under our experimental conditions. The speed of recruitment to the wound, how long the cells stay at the injury, and how many cells enter the wound site are all important parameters we can measure to understand how the immune cells (and therefore the wider immune system) are functioning in our models.
+
+### pIGLET-mediated transgenesis
+
+{%
+  include float.html
+  content=content
+  flip=true
+%}
+
+PhiC31 Integrase Genomic Loci Engineered for Transgenesis (pIGLET) is a recently developed zebrafish transgenesis system that we use in our lab to model human non-coding regulatory elements. As the name suggests, pIGLET refers to a transgenic zebrafish line containing a unique attP landing site located within a well-mapped genomic region that avoids both phenotypic consequences and positional effects. We utilize two lines of pIGLET fish: pIGLET14a and pIGLET24b, with the end numbers indicating the chromosomal location of the landing site. These lines were generously provided in collaboration with Dr. Robert Lalonde and Professor Christian Mosimann at the University of Colorado Anschutz. By injecting a plasmid containing complementary attB sites flanking a region of interest, alongside phiC31 integrase, we achieve single-site, unidirectional integration of that region into the genome at the designated site. This enables us to generate transgenic lines housing putative enhancer regions positioned upstream of a fluorescent reporter. Doing so facilitates both tissue-specific expression profiling and in vivo quantification of enhancer activity across populations, capabilities that are limited or absent in other zebrafish transgenesis methods. Through this system, we are able to investigate the effects of variation within enhancer regions, with the ultimate goal of translating our findings into improved health outcomes.
 
 {% include float.html clear=false %}
