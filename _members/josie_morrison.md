@@ -1,7 +1,7 @@
 ---
 name: Josie Morrison
 image: images/members/josie_morrison.jpg
-role: undergrad
+role: honours
 affiliation: Physiology | Genetics | CNE
 email: 
 links:
