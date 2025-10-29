@@ -1,87 +1,117 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
 <url>
-<loc>https://enhancelabnz.github.io/leasklab/members/ben_rangihuna.html</loc>
-<lastmod>2025-09-30T11:38:15+00:00</lastmod>
+  <loc>https://enhancelabnz.github.io/leasklab/</loc>
+  <lastmod>2025-09-30T11:42:28+00:00</lastmod>
+  <priority>1.00</priority>
 </url>
 <url>
-<loc>https://enhancelabnz.github.io/leasklab/members/caleb_calhoun.html</loc>
-<lastmod>2025-09-30T11:38:15+00:00</lastmod>
+  <loc>https://enhancelabnz.github.io/leasklab/projects/</loc>
+  <lastmod>2025-09-30T11:42:28+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-<loc>https://enhancelabnz.github.io/leasklab/members/calvin_young.html</loc>
-<lastmod>2025-09-30T11:38:15+00:00</lastmod>
+  <loc>https://enhancelabnz.github.io/leasklab/publications/</loc>
+  <lastmod>2025-09-30T11:42:28+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-<loc>https://enhancelabnz.github.io/leasklab/members/daniel_lyth.html</loc>
-<lastmod>2025-09-30T11:38:15+00:00</lastmod>
+  <loc>https://enhancelabnz.github.io/leasklab/team/</loc>
+  <lastmod>2025-09-30T11:42:28+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-<loc>https://enhancelabnz.github.io/leasklab/members/eilish_dalley.html</loc>
-<lastmod>2025-09-30T11:38:15+00:00</lastmod>
+  <loc>https://enhancelabnz.github.io/leasklab/blog/</loc>
+  <lastmod>2025-09-30T11:42:28+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-<loc>https://enhancelabnz.github.io/leasklab/members/emma_mcclure.html</loc>
-<lastmod>2025-09-30T11:38:15+00:00</lastmod>
+  <loc>https://enhancelabnz.github.io/leasklab/contact/</loc>
+  <lastmod>2025-09-30T11:42:28+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-<loc>https://enhancelabnz.github.io/leasklab/members/hannah_darroch.html</loc>
-<lastmod>2025-09-30T11:38:15+00:00</lastmod>
+  <loc>https://enhancelabnz.github.io/leasklab/members/megan_leask.html</loc>
+  <lastmod>2025-09-30T11:42:28+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-<loc>https://enhancelabnz.github.io/leasklab/members/josie_morrison.html</loc>
-<lastmod>2025-09-30T11:38:15+00:00</lastmod>
+  <loc>https://enhancelabnz.github.io/leasklab/members/ben_rangihuna.html</loc>
+  <lastmod>2025-09-30T11:42:28+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-<loc>https://enhancelabnz.github.io/leasklab/members/megan_leask.html</loc>
-<lastmod>2025-09-30T11:38:15+00:00</lastmod>
+  <loc>https://enhancelabnz.github.io/leasklab/members/calvin_young.html</loc>
+  <lastmod>2025-09-30T11:42:28+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-<loc>https://enhancelabnz.github.io/leasklab/members/milly_morice.html</loc>
-<lastmod>2025-09-30T11:38:15+00:00</lastmod>
+  <loc>https://enhancelabnz.github.io/leasklab/members/hannah_darroch.html</loc>
+  <lastmod>2025-09-30T11:42:28+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-<loc>https://enhancelabnz.github.io/leasklab/members/oluwatobi_eboda.html</loc>
-<lastmod>2025-09-30T11:38:15+00:00</lastmod>
+  <loc>https://enhancelabnz.github.io/leasklab/members/oluwatobi_eboda.html</loc>
+  <lastmod>2025-09-30T11:42:28+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-<loc>https://enhancelabnz.github.io/leasklab/members/selina_williams.html</loc>
-<lastmod>2025-09-30T11:38:15+00:00</lastmod>
+  <loc>https://enhancelabnz.github.io/leasklab/members/caleb_calhoun.html</loc>
+  <lastmod>2025-09-30T11:42:28+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-<loc>https://enhancelabnz.github.io/leasklab/2024/11/25/lab-photo.html</loc>
-<lastmod>2025-09-30T11:38:15+00:00</lastmod>
+  <loc>https://enhancelabnz.github.io/leasklab/members/daniel_lyth.html</loc>
+  <lastmod>2025-09-30T11:42:28+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-<loc>https://enhancelabnz.github.io/leasklab/2025/02/27/xkcd-RNA.html</loc>
-<lastmod>2025-09-30T11:38:15+00:00</lastmod>
+  <loc>https://enhancelabnz.github.io/leasklab/members/milly_morice.html</loc>
+  <lastmod>2025-09-30T11:42:28+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-<loc>https://enhancelabnz.github.io/leasklab/2025/03/20/xkcd-lungfish.html</loc>
-<lastmod>2025-09-30T11:38:15+00:00</lastmod>
+  <loc>https://enhancelabnz.github.io/leasklab/members/eilish_dalley.html</loc>
+  <lastmod>2025-09-30T11:42:28+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-<loc>https://enhancelabnz.github.io/leasklab/projects/</loc>
-<lastmod>2025-09-30T11:38:15+00:00</lastmod>
+  <loc>https://enhancelabnz.github.io/leasklab/members/emma_mcclure.html</loc>
+  <lastmod>2025-09-30T11:42:28+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-<loc>https://enhancelabnz.github.io/leasklab/team/</loc>
-<lastmod>2025-09-30T11:38:15+00:00</lastmod>
+  <loc>https://enhancelabnz.github.io/leasklab/members/josie_morrison.html</loc>
+  <lastmod>2025-09-30T11:42:28+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-<loc>https://enhancelabnz.github.io/leasklab/blog/</loc>
-<lastmod>2025-09-30T11:38:15+00:00</lastmod>
+  <loc>https://enhancelabnz.github.io/leasklab/members/selina_williams.html</loc>
+  <lastmod>2025-09-30T11:42:28+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-<loc>https://enhancelabnz.github.io/leasklab/publications/</loc>
-<lastmod>2025-09-30T11:38:15+00:00</lastmod>
+  <loc>https://enhancelabnz.github.io/leasklab/2025/03/20/xkcd-lungfish.html</loc>
+  <lastmod>2025-09-30T11:42:28+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-<loc>https://enhancelabnz.github.io/leasklab/contact/</loc>
-<lastmod>2025-09-30T11:38:15+00:00</lastmod>
+  <loc>https://enhancelabnz.github.io/leasklab/2025/02/27/xkcd-RNA.html</loc>
+  <lastmod>2025-09-30T11:42:28+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-<loc>https://enhancelabnz.github.io/leasklab/</loc>
-<lastmod>2025-09-30T11:38:15+00:00</lastmod>
+  <loc>https://enhancelabnz.github.io/leasklab/2024/11/25/lab-photo.html</loc>
+  <lastmod>2025-09-30T11:42:28+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
+
+
 </urlset>
