@@ -2,7 +2,7 @@
 name: Josie Morrison
 image: images/members/josie_morrison.jpg
 role: alumni
-affiliation: Physiology | Genetics | CNE
+affiliation: Graduate Student
 email: 
 links:
   linkedin: https://www.linkedin.com/in/josephine-morrison-60291328a/
