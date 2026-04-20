@@ -1,7 +1,7 @@
 ---
 name: Eilish Dalley
 image: images/members/eilish_dalley.jpg
-role: honours
+role: ms
 affiliation: Physiology | CNE
 email:
 ---
