@@ -1,7 +1,7 @@
 ---
 name: Emma McClure
 image: images/members/emma_mcclure.jpg
-role: honours
+role: alumni
 affiliation: Physiology | CNE
 email: 
 ---
