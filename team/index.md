@@ -25,5 +25,3 @@ We are a team of geneticisits, statisticians, cell biologists, neuroscientists a
 {% include section.html %}
 
 {% include list.html data="members" component="portrait" filter="role == 'alumni'" %}
-
-{% include grid.html style="square" content=content %}
