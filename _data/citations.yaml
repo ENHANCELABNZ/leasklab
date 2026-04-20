@@ -1,12 +1,31 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: pubmed:41264820
+  title: "Misclassified latent autoimmune diabetes in adults within M\u0101ori and\
+    \ Pacific adults with type 2 diabetes in Aotearoa New Zealand."
+  authors:
+  - Zanetta L L Toomata
+  - Megan P Leask
+  - Nicola Dalbeth
+  - Lisa K Stamp
+  - Janak de Zoysa
+  - Tony R Merriman
+  - Phillip Wilcox
+  - Ofa Dewes
+  - Rinki Murphy
+  publisher: The New Zealand medical journal
+  date: '2025-11-21'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/41264820
+  term: Leask, MEGAN[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
 - id: pubmed:40838303
   title: 'Gouty inflammation: genetic mechanisms towards flare therapy.'
   authors:
   - Daniel Lyth
   - Megan Leask
   publisher: Current opinion in rheumatology
-  date: '2025-08-21'
+  date: '2025-08-20'
   link: https://www.ncbi.nlm.nih.gov/pubmed/40838303
   term: Leask, MEGAN[Author]
   plugin: pubmed.py
@@ -1332,7 +1351,7 @@
   - Megan Leask
   - Michael Witbrock
   - Alex Gavryushkin
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2022-07-10'
   link: https://doi.org/g84vx4
   orcid: 0000-0003-3199-5277
@@ -1380,7 +1399,7 @@
   - Tony R Merriman
   - Richard J Reynolds
   - Ana I Vazquez
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2021-04-05'
   link: https://doi.org/g84vx6
   orcid: 0000-0003-3199-5277
@@ -1439,7 +1458,7 @@
   - Lisa K Stamp
   - Philip C Robinson
   - Tony R Merriman
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2020-11-09'
   link: https://doi.org/g84vx7
   orcid: 0000-0003-3199-5277
@@ -1506,7 +1525,7 @@
   - "Justin O\u2019Sullivan"
   - Eli A Stahl
   - Tony R Merriman
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2019-08-22'
   link: https://doi.org/gk3pwz
   orcid: 0000-0003-3199-5277
@@ -1676,7 +1695,7 @@
   - "Justin M. O\u2019Sullivan"
   - Tony R. Merriman
   - Julia A. Horsfield
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2018-07-08'
   link: https://doi.org/gkw7gg
   orcid: 0000-0003-3199-5277
