@@ -1,0 +1,802 @@
+<!DOCTYPE html>
+<html lang="en" data-dark="false">
+  <head>
+  <!--
+  put your analytics (e.g. Google Analytics) tracking code here
+-->
+
+  <!--
+  put your search engine verification (e.g. Google Search Console) tag here
+-->
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>Bree Holloway | ENHANCE Lab</title>
+
+<link rel="icon" href="/leasklab/images/logo.jpg">
+
+<meta name="title" content="Bree Holloway">
+<meta name="description" content="I lead the Equity iN Health And Non-Coding Elements (ENHANCE) lab. The ENHANCE lab research projects aim to assign function to genetic variants that are associated with health and disease using bioinformatics, zebrafish and cell assays. We work with Māori and Pacific genetic data to identify clinically-relevant genetic variants that are unique to Māori and Pacific people and we focus on conditions that affect women and are underrepresented in the research space. The long-term outcomes of our work has the potential to reduce health disparities and improve genetic equity in these underrepresented groups.">
+
+<meta property="og:title" content="Bree Holloway">
+<meta property="og:site_title" content="ENHANCE Lab">
+<meta property="og:description" content="I lead the Equity iN Health And Non-Coding Elements (ENHANCE) lab. The ENHANCE lab research projects aim to assign function to genetic variants that are associated with health and disease using bioinformatics, zebrafish and cell assays. We work with Māori and Pacific genetic data to identify clinically-relevant genetic variants that are unique to Māori and Pacific people and we focus on conditions that affect women and are underrepresented in the research space. The long-term outcomes of our work has the potential to reduce health disparities and improve genetic equity in these underrepresented groups.">
+<meta property="og:url" content="https://enhancelabnz.github.io/leasklab">
+<meta property="og:image" content="/leasklab/images/share.jpg">
+<meta property="og:locale" content="en_US">
+
+<meta property="twitter:title" content="Bree Holloway">
+<meta property="twitter:description" content="I lead the Equity iN Health And Non-Coding Elements (ENHANCE) lab. The ENHANCE lab research projects aim to assign function to genetic variants that are associated with health and disease using bioinformatics, zebrafish and cell assays. We work with Māori and Pacific genetic data to identify clinically-relevant genetic variants that are unique to Māori and Pacific people and we focus on conditions that affect women and are underrepresented in the research space. The long-term outcomes of our work has the potential to reduce health disparities and improve genetic equity in these underrepresented groups.">
+<meta property="twitter:url" content="https://enhancelabnz.github.io/leasklab">
+<meta property="twitter:card" content="summary_large_image">
+<meta property="twitter:image" content="/leasklab/images/share.jpg">
+
+
+  <meta property="og:type" content="website">
+
+
+<script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    
+      "@type": "WebSite",
+    
+    "name": "Bree Holloway",
+    "description": "I lead the Equity iN Health And Non-Coding Elements (ENHANCE) lab. The ENHANCE lab research projects aim to assign function to genetic variants that are associated with health and disease using bioinformatics, zebrafish and cell assays. We work with Māori and Pacific genetic data to identify clinically-relevant genetic variants that are unique to Māori and Pacific people and we focus on conditions that affect women and are underrepresented in the research space. The long-term outcomes of our work has the potential to reduce health disparities and improve genetic equity in these underrepresented groups.",
+    "headline": "Bree Holloway",
+    "publisher": {
+      "@type": "Organization",
+      "logo": { "@type": "ImageObject", "url": "/leasklab/images/logo.jpg" }
+    },
+    "url": "https://enhancelabnz.github.io/leasklab"
+  }
+</script>
+
+<link rel="alternate" type="application/rss+xml" href="https://enhancelabnz.github.io/leasklab/feed.xml">
+
+  <!-- Google Fonts -->
+<!-- automatically get url from fonts used in theme file -->
+
+<link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?display=swap&&family=Barlow:ital,wght@0,200;0,400;0,500;0,600;1,200;1,400;1,500;1,600&family=Roboto+Mono:ital,wght@0,200;0,400;0,500;0,600;1,200;1,400;1,500;1,600" rel="stylesheet">
+
+<!-- Font Awesome icons (load asynchronously due to size) -->
+
+<link
+  href="https://use.fontawesome.com/releases/v6.7.0/css/all.css"
+  rel="stylesheet"
+  media="none"
+  onload="this.removeAttribute('media'); this.onload = null;"
+/>
+<noscript>
+  <link href="https://use.fontawesome.com/releases/v6.7.0/css/all.css" rel="stylesheet">
+</noscript>
+
+  <!-- third party styles -->
+<!-- https://stylishthemes.github.io/Syntax-Themes/pygments/ -->
+<link 
+  href="https://cdn.jsdelivr.net/gh/StylishThemes/Syntax-Themes/pygments/css-github/pygments-tomorrow-night-eighties.css"
+  rel="stylesheet"
+/>
+
+<!-- include all sass in styles folder -->
+
+
+  
+    <link
+      href="/leasklab/_styles/-theme.css"
+      rel="stylesheet"
+    />
+  
+
+  
+    <link
+      href="/leasklab/_styles/alert.css"
+      rel="stylesheet"
+    />
+  
+
+  
+    <link
+      href="/leasklab/_styles/all.css"
+      rel="stylesheet"
+    />
+  
+
+  
+    <link
+      href="/leasklab/_styles/anchor.css"
+      rel="stylesheet"
+    />
+  
+
+  
+    <link
+      href="/leasklab/_styles/background.css"
+      rel="stylesheet"
+    />
+  
+
+  
+    <link
+      href="/leasklab/_styles/body.css"
+      rel="stylesheet"
+    />
+  
+
+  
+    <link
+      href="/leasklab/_styles/bold.css"
+      rel="stylesheet"
+    />
+  
+
+  
+    <link
+      href="/leasklab/_styles/button.css"
+      rel="stylesheet"
+    />
+  
+
+  
+    <link
+      href="/leasklab/_styles/card.css"
+      rel="stylesheet"
+    />
+  
+
+  
+    <link
+      href="/leasklab/_styles/checkbox.css"
+      rel="stylesheet"
+    />
+  
+
+  
+    <link
+      href="/leasklab/_styles/citation.css"
+      rel="stylesheet"
+    />
+  
+
+  
+    <link
+      href="/leasklab/_styles/code.css"
+      rel="stylesheet"
+    />
+  
+
+  
+    <link
+      href="/leasklab/_styles/cols.css"
+      rel="stylesheet"
+    />
+  
+
+  
+    <link
+      href="/leasklab/_styles/dark-toggle.css"
+      rel="stylesheet"
+    />
+  
+
+  
+    <link
+      href="/leasklab/_styles/details.css"
+      rel="stylesheet"
+    />
+  
+
+  
+    <link
+      href="/leasklab/_styles/feature.css"
+      rel="stylesheet"
+    />
+  
+
+  
+    <link
+      href="/leasklab/_styles/figure.css"
+      rel="stylesheet"
+    />
+  
+
+  
+    <link
+      href="/leasklab/_styles/float.css"
+      rel="stylesheet"
+    />
+  
+
+  
+    <link
+      href="/leasklab/_styles/font.css"
+      rel="stylesheet"
+    />
+  
+
+  
+    <link
+      href="/leasklab/_styles/footer.css"
+      rel="stylesheet"
+    />
+  
+
+  
+    <link
+      href="/leasklab/_styles/form.css"
+      rel="stylesheet"
+    />
+  
+
+  
+    <link
+      href="/leasklab/_styles/grid.css"
+      rel="stylesheet"
+    />
+  
+
+  
+    <link
+      href="/leasklab/_styles/header.css"
+      rel="stylesheet"
+    />
+  
+
+  
+    <link
+      href="/leasklab/_styles/heading.css"
+      rel="stylesheet"
+    />
+  
+
+  
+    <link
+      href="/leasklab/_styles/highlight.css"
+      rel="stylesheet"
+    />
+  
+
+  
+    <link
+      href="/leasklab/_styles/icon.css"
+      rel="stylesheet"
+    />
+  
+
+  
+    <link
+      href="/leasklab/_styles/image.css"
+      rel="stylesheet"
+    />
+  
+
+  
+    <link
+      href="/leasklab/_styles/link.css"
+      rel="stylesheet"
+    />
+  
+
+  
+    <link
+      href="/leasklab/_styles/list.css"
+      rel="stylesheet"
+    />
+  
+
+  
+    <link
+      href="/leasklab/_styles/main.css"
+      rel="stylesheet"
+    />
+  
+
+  
+    <link
+      href="/leasklab/_styles/paragraph.css"
+      rel="stylesheet"
+    />
+  
+
+  
+    <link
+      href="/leasklab/_styles/portrait.css"
+      rel="stylesheet"
+    />
+  
+
+  
+    <link
+      href="/leasklab/_styles/post-excerpt.css"
+      rel="stylesheet"
+    />
+  
+
+  
+    <link
+      href="/leasklab/_styles/post-info.css"
+      rel="stylesheet"
+    />
+  
+
+  
+    <link
+      href="/leasklab/_styles/post-nav.css"
+      rel="stylesheet"
+    />
+  
+
+  
+    <link
+      href="/leasklab/_styles/quote.css"
+      rel="stylesheet"
+    />
+  
+
+  
+    <link
+      href="/leasklab/_styles/rule.css"
+      rel="stylesheet"
+    />
+  
+
+  
+    <link
+      href="/leasklab/_styles/search-box.css"
+      rel="stylesheet"
+    />
+  
+
+  
+    <link
+      href="/leasklab/_styles/search-info.css"
+      rel="stylesheet"
+    />
+  
+
+  
+    <link
+      href="/leasklab/_styles/section.css"
+      rel="stylesheet"
+    />
+  
+
+  
+    <link
+      href="/leasklab/_styles/table.css"
+      rel="stylesheet"
+    />
+  
+
+  
+    <link
+      href="/leasklab/_styles/tags.css"
+      rel="stylesheet"
+    />
+  
+
+  
+    <link
+      href="/leasklab/_styles/textbox.css"
+      rel="stylesheet"
+    />
+  
+
+  
+    <link
+      href="/leasklab/_styles/tooltip.css"
+      rel="stylesheet"
+    />
+  
+
+  
+    <link
+      href="/leasklab/_styles/util.css"
+      rel="stylesheet"
+    />
+  
+
+
+<!-- include all css in styles folder -->
+
+
+
+  <!-- third party scripts -->
+<script src="https://unpkg.com/@popperjs/core@2" defer></script>
+<script src="https://unpkg.com/tippy.js@6" defer></script>
+<script src="https://unpkg.com/mark.js@8" defer></script>
+
+<!-- include all js in scripts folder -->
+
+
+  <script src="/leasklab/_scripts/anchors.js"></script>
+
+  <script src="/leasklab/_scripts/dark-mode.js"></script>
+
+  <script src="/leasklab/_scripts/fetch-tags.js"></script>
+
+  <script src="/leasklab/_scripts/search.js"></script>
+
+  <script src="/leasklab/_scripts/site-search.js"></script>
+
+  <script src="/leasklab/_scripts/table-wrap.js"></script>
+
+  <script src="/leasklab/_scripts/tooltip.js"></script>
+
+
+</head>
+
+  <body>
+    
+
+
+
+
+
+
+
+<header
+  class="background"
+  style="--image: url('/leasklab/images/JAZF1_rostral.jpg')"
+  
+    data-dark="true"
+  
+  
+>
+  <a href="/leasklab/" class="home">
+    
+      <span class="logo">
+        
+          <img src="/leasklab/images/logo.jpg" alt="logo">
+        
+      </span>
+    
+    
+      <span class="title-text" data-tooltip="Home">
+        
+          <span class="title">ENHANCE Lab</span>
+        
+        
+      </span>
+    
+  </a>
+
+  <input class="nav-toggle" type="checkbox" aria-label="show/hide nav">
+
+  <nav>
+    
+    
+      
+        <a
+          href="/leasklab/projects/"
+          data-tooltip="Projects and Techniques"
+        >
+          Projects
+        </a>
+      
+    
+      
+        <a
+          href="/leasklab/publications/"
+          data-tooltip="Published works"
+        >
+          Publications
+        </a>
+      
+    
+      
+        <a
+          href="/leasklab/team/"
+          data-tooltip="About our team"
+        >
+          Team
+        </a>
+      
+    
+      
+        <a
+          href="/leasklab/blog/"
+          data-tooltip="Musings and miscellany"
+        >
+          Blog
+        </a>
+      
+    
+      
+        <a
+          href="/leasklab/contact/"
+          data-tooltip="Email, address, and location"
+        >
+          Contact
+        </a>
+      
+    
+  </nav>
+</header>
+
+    <main>
+      <!--
+  modify main content of page:
+  - add section breaks
+  - attach section properties
+  - filter out blank sections
+-->
+
+
+
+
+
+
+  
+  
+  
+
+  <section
+    class="background"
+    data-size="page"
+    
+    
+  >
+    <div
+  class="float"
+  
+  
+>
+  
+<div class="portrait-wrapper">
+  <a class="portrait" data-style="" aria-label="Bree Holloway">
+    
+      <i class="icon fa-solid fa-graduation-cap"></i>
+    
+
+    <img src="/leasklab/images/members/bree_holloway.jpg" class="portrait-image" alt="member portrait" loading="lazy" onerror="this.src = '/leasklab/images/fallback.svg'; this.onerror = null;" />
+
+    
+      <span class="portrait-name">
+        Bree Holloway
+      </span>
+    
+
+    
+      <span class="portrait-description">
+        PhD Student
+      </span>
+    
+
+    
+      <span class="portrait-affiliation">
+        Physiology
+      </span>
+    
+  </a>
+</div>
+
+<div>
+  
+</div>
+
+
+</div>
+
+
+Kia ora!
+My name is Briana (Bree) and I am currently doing my master’s thesis in the Enhance Lab looking at Pharmacogenetic Variants and associated metabolic biomarkers in Māori and Pacific Peoples. The purpose of my research is to help address health inequities in Aotearoa to ensure equal health outcomes. 
+I’m originally from Nelson and completed my undergraduate and PgDipSci at Otago University in Dunedin before moving to Christchurch to study a master’s thesis at Otago University – Christchurch Campus. I have recently moved back down to Dunedin to finish up my master’s alongside pursing a PhD in 2026. 
+
+
+
+
+
+
+<p class="center">
+  <a href="/leasklab/research/?search=%22Bree%20Holloway%22%20">
+    Search for Bree Holloway's papers on the Research page
+  </a>
+</p>
+
+
+
+<!--
+<p class="center">
+  <a href="/leasklab/blog/?search=Bree%20Holloway">
+    See Bree Holloway's posts on the Blog page
+  </a>
+</p>
+-->
+  </section>
+
+
+    </main>
+    
+
+
+<footer
+  class="background"
+  style="--image: url('/leasklab/images/JAZF1_caudal.jpg')"
+  
+    data-dark="true"
+  
+  data-size="wide"
+>
+  <!--
+    <div>
+      Extra details like contact info or address
+    </div>
+  -->
+
+  <div>
+    
+      
+      
+      
+
+
+
+  <div class="button-wrapper">
+    <a
+      class="button"
+      href="mailto:megan.leask@otago.ac.nz"
+      
+        data-tooltip="Email"
+      
+      data-style="bare"
+      
+      aria-label="Email"
+    >
+      <i class="icon fa-solid fa-envelope"></i>
+      
+    </a>
+  </div>
+
+
+    
+      
+      
+      
+
+
+
+  <div class="button-wrapper">
+    <a
+      class="button"
+      href="https://orcid.org/0000-0003-3199-5277"
+      
+        data-tooltip="ORCID"
+      
+      data-style="bare"
+      
+      aria-label="ORCID"
+    >
+      <i class="icon fa-brands fa-orcid"></i>
+      
+    </a>
+  </div>
+
+
+    
+      
+      
+      
+
+
+
+  <div class="button-wrapper">
+    <a
+      class="button"
+      href="https://scholar.google.com/citations?user=AvfnEL4AAAAJ"
+      
+        data-tooltip="Google Scholar"
+      
+      data-style="bare"
+      
+      aria-label="Google Scholar"
+    >
+      <i class="icon fa-brands fa-google"></i>
+      
+    </a>
+  </div>
+
+
+    
+      
+      
+      
+
+
+
+  <div class="button-wrapper">
+    <a
+      class="button"
+      href="https://github.com/https://github.com/ENHANCELABNZ"
+      
+        data-tooltip="GitHub"
+      
+      data-style="bare"
+      
+      aria-label="GitHub"
+    >
+      <i class="icon fa-brands fa-github"></i>
+      
+    </a>
+  </div>
+
+
+    
+      
+      
+      
+
+
+
+  <div class="button-wrapper">
+    <a
+      class="button"
+      href="https://twitter.com/https://x.com/leaskmegan"
+      
+        data-tooltip="Twitter"
+      
+      data-style="bare"
+      
+      aria-label="Twitter"
+    >
+      <i class="icon fa-brands fa-twitter"></i>
+      
+    </a>
+  </div>
+
+
+    
+  </div>
+
+  <div>
+    &copy; 2026
+    ENHANCE Lab
+    &nbsp; | &nbsp; Built with
+    <a href="https://github.com/greenelab/lab-website-template">
+      Lab Website Template
+    </a>
+  </div>
+
+  <input
+    type="checkbox"
+    class="dark-toggle"
+    data-tooltip="Dark mode"
+    aria-label="toggle dark mode"
+    oninput="onDarkToggleChange(event)"
+  >
+</footer>
+
+  </body>
+</html>
