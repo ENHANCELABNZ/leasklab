@@ -4,7 +4,6 @@ image: images/members/bree_holloway.jpg
 role: phd
 affiliation: Physiology
 email: holbr355@student.otago.ac.nz
-links:
 ---
 
 Kia ora!
