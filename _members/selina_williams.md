@@ -1,7 +1,7 @@
 ---
 name: Selina Williams
 image: images/members/selina_williams.jpg
-role: honours
+role: phd
 affiliation: Physiology | CNE
 email: 
 ---
