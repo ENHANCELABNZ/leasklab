@@ -16,7 +16,7 @@ phd:
 
 msc:
   icon: fas-solid fa-user-graduate
-  description: Master''s Student
+  description: Master's Student
 
 honours:
   icon: fa-solid fa-user-graduate
