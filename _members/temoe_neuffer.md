@@ -2,7 +2,7 @@
 name: Temoe Neuffer
 image: images/members/temoe_neuffer.jpg
 role: honours
-affiliation: Physiology
+affiliation: Physiology | CNE
 email:
 ---
 ‘Ia ora na,
