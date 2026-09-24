@@ -1,7 +1,7 @@
 ---
 name: Bree Holloway
 image: images/members/bree_holloway.jpg
-role: phd
+role: alumni
 affiliation: Physiology
 email: holbr355@student.otago.ac.nz
 ---
