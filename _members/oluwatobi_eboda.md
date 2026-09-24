@@ -1,7 +1,7 @@
 ---
 name:  Oluwatobi Eboda, PhD
 image: images/members/olu _eboda.jpg
-role: rstaff
+role: alumni
 affiliation: Physiology | CNE
 email: oluwatobi.eboda@otago.ac.nz
 ---
